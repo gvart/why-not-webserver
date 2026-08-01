@@ -1,0 +1,21 @@
+src/main/java/dev/gvart/TcpChatServer.java
+  s_12b4de20ceea7d::t_ca16f20bb42a73 1-54
+src/main/java/dev/gvart/UdpMetricClient.java
+  s_12b4de20ceea7d::t_1389fc5b99c418 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "04e6cf07ccad6d3b69a7acfb30d959c78684e115",
+  "prompts": {},
+  "sessions": {
+    "s_12b4de20ceea7d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bc77acf1-95c7-4654-9800-40f3c39ae3f1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vladlen Gladis <vladlen.gladis@deliveryhero.com>"
+    }
+  }
+}
